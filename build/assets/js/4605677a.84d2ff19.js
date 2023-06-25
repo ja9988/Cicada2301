@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcicada_2301=self.webpackChunkcicada_2301||[]).push([[9036],{2112:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/Cicada2301/blog/tags/facebook","allTagsPath":"/Cicada2301/blog/tags","count":1}')}}]);

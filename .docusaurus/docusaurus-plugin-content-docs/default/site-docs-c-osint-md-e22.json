@@ -1,0 +1,20 @@
+{
+  "unversionedId": "cOSINT",
+  "id": "cOSINT",
+  "title": "cOSINT",
+  "description": "",
+  "source": "@site/docs/cOSINT.md",
+  "sourceDirName": ".",
+  "slug": "/cOSINT",
+  "permalink": "/Cicada2301/docs/cOSINT",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cOSINT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "people",
+    "permalink": "/Cicada2301/docs/OSINT/people"
+  }
+}

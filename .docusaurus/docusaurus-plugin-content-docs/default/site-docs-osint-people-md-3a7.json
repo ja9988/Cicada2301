@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OSINT/people",
+  "id": "OSINT/people",
+  "title": "people",
+  "description": "PERSONAL INFORMATION [[Target File]]",
+  "source": "@site/docs/OSINT/people.md",
+  "sourceDirName": "OSINT",
+  "slug": "/OSINT/people",
+  "permalink": "/Cicada2301/docs/OSINT/people",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OSINT/people.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rename",
+    "permalink": "/Cicada2301/docs/Morsa/rename"
+  },
+  "next": {
+    "title": "cOSINT",
+    "permalink": "/Cicada2301/docs/cOSINT"
+  }
+}
