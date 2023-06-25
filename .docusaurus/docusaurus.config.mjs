@@ -41,7 +41,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/double.jpg",
     "navbar": {
       "title": "My Site",
       "logo": {
