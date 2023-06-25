@@ -1,4 +1,5 @@
-/**
+
+**
  * Creating a sidebar enables you to:
  - create an ordered group of docs
  - render a sidebar for each doc of that group
@@ -19,12 +20,10 @@ const sidebars = {
   // But you can create a sidebar manually
   /*
   tutorialSidebar: [
-    'intro',
-    'hello',
     {
       type: 'category',
       label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
+      items: ['hello'],
     },
   ],
    */
